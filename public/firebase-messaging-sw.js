@@ -10,13 +10,13 @@ Initialize the Firebase app in the service worker by passing in the messagingSen
 * New configuration for app@pulseservice.com
 */
 firebase.initializeApp({
-  apiKey: "AIzaSyBOREN7KQCVDNvkpCTZcNBGKf1NvKs8PM4",
-  authDomain: "laravel-push-notificatio-bd67c.firebaseapp.com",
-  projectId: "laravel-push-notificatio-bd67c",
-  storageBucket: "laravel-push-notificatio-bd67c.appspot.com",
-  messagingSenderId: "820292628857",
-  appId: "1:820292628857:web:039c5aa8c9799f4e2a7fa8",
-  measurementId: "G-22G0LRE2SL"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 });
 
 /*
